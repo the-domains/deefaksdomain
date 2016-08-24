@@ -1,0 +1,14 @@
+layout_spectrum: 0.7943181640002877
+typography_spectrum: 0.5230421086307615
+color:
+  brandStrength: 0.6436444744467735
+  lightness: 0.8104995505418628
+  saturation: 0.2367673257831484
+  rhythmicContrast: 0.9223225850146264
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: deefaksdomain
